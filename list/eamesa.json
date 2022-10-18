@@ -1,0 +1,47 @@
+{
+    "name": "ChicagoDAO",
+    "symbol": "POPULUS",
+    "description": "ChicagoDAO Governance NTT NFT.",
+    "seller_fee_basis_points": 420,
+    "external_url": "",
+    "edition": "populus",
+    "background_color": "000000",
+    "attributes": [
+        {
+            "trait_type": "dao_name",
+            "value": "chicagodao"
+        },
+        {
+            "trait_type": "dao_multisig",
+            "value": "0x766696c96cE24BAf0d235073ffBeA664b1e5d9c4"
+        },
+        {
+            "trait_type": "username",
+            "value": "eamesa"
+        },
+        {
+            "trait_type": "school",
+            "value": "Booth"
+        },
+        {
+            "trait_type": "membership_tier",
+            "value": "Core Team"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "TD4RMPBi5N5Ve6vCubcASDvdXyxurQCLY6f9jAw5Wvk",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://res.cloudinary.com/dgmuzb9mm/image/upload/v1664714369/discord.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "image": "https://res.cloudinary.com/dgmuzb9mm/image/upload/v1664714369/discord.png"
+}
