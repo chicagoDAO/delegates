@@ -1,7 +1,7 @@
 {
-    "name": "ChicagoDAO",
-    "symbol": "POPULUS",
-    "description": "ChicagoDAO Governance NTT NFT.",
+    "name": "DGID",
+    "symbol": "ChicagoDAO",
+    "description": "ChicagoDAO's Decentralized Governance Identifier (DGID).",
     "seller_fee_basis_points": 420,
     "external_url": "",
     "edition": "populus",
